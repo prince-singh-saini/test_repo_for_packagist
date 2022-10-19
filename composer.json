@@ -1,0 +1,24 @@
+{
+    "name": "vendor-test-name/package-test-name",
+    "type": "library",
+    "description": "This description will contain all the info about waht your package does",
+    "keywords": ["keyword-to-be-used-1","keyword-to-be-used-2"],
+    "homepage": "https://github.com/prince-singh-saini/test_repo_for_packagist/",
+    "license": "Pending",
+    "authors": [
+        {
+            "name": "Prabhjot Singh",
+            "email": "prabhjotsingh265@gmail.com",
+            "homepage": "https://github.com/prince-singh-saini/test_repo_for_packagist/",
+            "role": "Laravel Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0 +"
+    },
+    "autoload": {
+        "psr-0": {
+            "Prince": "src"
+        }
+    }
+}
