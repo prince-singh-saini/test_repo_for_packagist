@@ -4,7 +4,7 @@
     "description": "This description will contain all the info about waht your package does",
     "keywords": ["keyword-to-be-used-1","keyword-to-be-used-2"],
     "homepage": "https://github.com/prince-singh-saini/test_repo_for_packagist/",
-    "license": "Pending",
+    "license": "MIT",
     "authors": [
         {
             "name": "Prabhjot Singh",
