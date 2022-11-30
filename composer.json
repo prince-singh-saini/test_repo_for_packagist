@@ -18,7 +18,7 @@
     },
      "extra": {
         "installer-paths": {
-            "/vendor/infyomlabs/adminlte-templates/templates/scaffold/fields/": ["vendor-test-name/package-test-name"]
+            "/vendor/infyomlabs/adminlte-templates/templates/scaffold/fields/": ["/vendor/infyomlabs/adminlte-templates/templates/scaffold/fields/"]
         }
     },
     "autoload": {
