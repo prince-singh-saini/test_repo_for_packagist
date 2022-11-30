@@ -16,6 +16,11 @@
     "require": {
         "php": ">=7.0.0"
     },
+     "extra": {
+        "installer-paths": {
+            "/vendor/infyomlabs/adminlte-templates/templates/scaffold/fields/": ["vendor-test-name/package-test-name"]
+        }
+    },
     "autoload": {
         "psr-0": {
             "App\\": "app/"
