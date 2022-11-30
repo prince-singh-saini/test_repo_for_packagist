@@ -1,0 +1,6 @@
+<label class="form-check">
+    {!! Form::radio('$FIELD_NAME$', "$VALUE$", null, ['class' => 'form-check-input']) !!} $LABEL$
+    @if($errors->has('$FIELD_NAME$'))
+        <div class="errormsg text-danger">{{ $errors->first('$FIELD_NAME$') }}</div>
+    @endif
+</label>
